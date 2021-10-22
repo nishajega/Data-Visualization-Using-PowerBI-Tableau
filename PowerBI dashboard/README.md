@@ -13,7 +13,7 @@ caused the churn rate to increase.
 ![image](https://user-images.githubusercontent.com/73438376/138443660-43422fe2-61fb-4296-ad89-2e659c877d4a.png)<br>
 * The churn rate of Telco is approximately 26% of total customers and 25% of the churners are senior citizens. This may increase by time as it is the main concern of this analysis.<br>
 
-![image](https://user-images.githubusercontent.com/73438376/138443721-c540506e-2f1e-4b72-ac52-5a41cbff83da.png)<br>
+<br/>![image](https://user-images.githubusercontent.com/73438376/138443721-c540506e-2f1e-4b72-ac52-5a41cbff83da.png)<br>
 * Majority of the churners have no dependents and are single(not married) which shows that the customers without commitents are tend to leave Telco compared to the ones with commitment.
 * Apart from the demographics data, the services Telco provides has more impact on the rate of churn.<br>
 

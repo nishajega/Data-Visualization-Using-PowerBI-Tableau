@@ -1,7 +1,7 @@
 # Data-Visualization with Power BI
 
 <b>Telco Customer Churn Analysis</b><br>
-<img width="632" alt="telcodashboard" src="https://user-images.githubusercontent.com/73438376/138428753-350fa6a5-4167-4262-ad90-af2a58b018b0.PNG">
+<img style="align: center;" width="632" alt="telcodashboard" src="https://user-images.githubusercontent.com/73438376/138428753-350fa6a5-4167-4262-ad90-af2a58b018b0.PNG">
 
 <b>Problem Statement:</b> Telco's customer churn rate had been increasing gradually hence, the marketing manager wants to know the factor of customer churn before it
 reaches its peak. So, this problem aims to analyze the data to determine what variables have the highest impact on the customer churn rate. 

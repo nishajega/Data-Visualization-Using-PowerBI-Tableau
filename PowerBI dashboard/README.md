@@ -17,14 +17,14 @@ caused the churn rate to increase.
 * Majority of the churners have no dependents and are single(not married) which shows that the customers without commitents are tend to leave Telco compared to the ones with commitment.
 * Apart from the demographics data, the services Telco provides has more impact on the rate of churn.<br>
 
-![image](https://user-images.githubusercontent.com/73438376/138490659-f373bfa4-48ce-413e-b6a7-4244cfaffe57.png)
+<br/>![image](https://user-images.githubusercontent.com/73438376/138490659-f373bfa4-48ce-413e-b6a7-4244cfaffe57.png)
 * As we can see majority of the churners using Electronic check for payment. As for the contract type, customers who are not bound to any kind of contract hold the majority bacause they are free to leave anytime.<br>
 
-![image](https://user-images.githubusercontent.com/73438376/138494232-0e4a2721-66c5-4b14-a830-1b3d9c15eb1a.png)
+<br/>![image](https://user-images.githubusercontent.com/73438376/138494232-0e4a2721-66c5-4b14-a830-1b3d9c15eb1a.png)
 * With higher monthly charge, customers won't able to stay longer with Telco so it's important to provide the right telco plan for the right person to retain the customers.<br>
 
-![image](https://user-images.githubusercontent.com/73438376/138494412-950e31dc-364a-4e7f-a374-9223d0cf5c3e.png)
-* By seeing this, we can easily say that Telco's Fibre Optic Internet Service is facing some major issue among the customers and if they couldn't provide the best internet service the churn rate will keep increasing for sure. <br>
+<br/>![image](https://user-images.githubusercontent.com/73438376/138494412-950e31dc-364a-4e7f-a374-9223d0cf5c3e.png)
+* By seeing this, we can easily say that Telco's Fibre Optic Internet Service is facing some major issue among the customers and if they couldn't provide the best internet service the churn rate will keep increasing for sure. <br/>
 
 <b>Suggestions</b><br>
 --------

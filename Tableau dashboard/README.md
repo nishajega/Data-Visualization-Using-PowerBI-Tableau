@@ -2,7 +2,7 @@
 
 <b>Revenue and Profit Analysis</b>
 -----
-This analysis contains 2 dashboards that are Revenue Analysis and Profit Analysis. ETL done using Tableau and the dashboards are as below:
+This analysis contains 2 dashboards that are Sales Revenue and Profit Analysis. After the EDA, built the dashboards in Tableau. They are as below:
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/73438376/138497949-ee48196b-5733-45d1-b36e-2662b9c02ff6.png)
 <p align="center"><b>Revenue Analysis Dashboard</b></p>
